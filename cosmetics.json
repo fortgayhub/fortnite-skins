@@ -18583,10 +18583,10 @@
         "id": "Pickaxe_ID_399_LoofahFemale1H",
         "backendType": "AthenaPickaxe",
         "name": "Fruit Punchers"
-    }
+    },
     {
         "id": "EID_Hydraulics",
         "backendType": "AthenaDance",
         "name": "Lil' Bounce"
-    },
+    }
 ]
