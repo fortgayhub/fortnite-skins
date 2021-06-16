@@ -18588,5 +18588,10 @@
         "id": "EID_Hydraulics",
         "backendType": "AthenaDance",
         "name": "Lil' Bounce"
+    },
+    {
+        "id": "EID_Chugga",
+        "backendType": "AthenaDance",
+        "name": "Chugga-Chugga"
     }
 ]
