@@ -18598,5 +18598,10 @@
         "id": "EID_Ruckus",
         "backendType": "AthenaDance",
         "name": "The Rick Dance"
+    },
+    {
+        "id": "EID_Emperor",
+        "backendType": "AthenaDance",
+        "name": "Secret Identity"
     }
 ]
