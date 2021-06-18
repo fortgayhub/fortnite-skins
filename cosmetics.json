@@ -18603,5 +18603,15 @@
         "id": "EID_Emperor",
         "backendType": "AthenaDance",
         "name": "Secret Identity"
+    },
+    {
+        "id": "CID_A_099_Athena_Commando_F_Shrapnel",
+        "backendType": "AthenaCharacter",
+        "name": "Dizzie"
+    },
+    {
+        "id": "CID_A_102_Athena_Commando_M_AssembleL",
+        "backendType": "AthenaCharacter",
+        "name": "Lok-Bot"
     }
 ]
